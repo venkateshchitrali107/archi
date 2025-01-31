@@ -1,0 +1,5 @@
+name: tide_analysis
+description: Miniclient linter rules
+version: 0.0.1
+environment:
+  sdk: ^3.6.0 # or newer

@@ -1,0 +1,9 @@
+name: tide_prelude
+description: Foundation components for the Tide framework
+version: 0.0.1
+environment:
+  sdk: ^3.6.0 
+dev_dependencies:
+  tide_analysis:
+    path: /Users/venkateshnchitrali/trys/MINICLIENT/utility/tide_analysis
+

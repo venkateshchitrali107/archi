@@ -1,0 +1,11 @@
+name: tide_di
+description: Tide Dependency Injection
+version: 0.0.1
+environment:
+  sdk: ^3.6.0 
+dev_dependencies:
+  tide_analysis:
+    path: /Users/venkateshnchitrali/trys/MINICLIENT/utility/tide_analysis
+dependencies:
+  get_it: ^8.0.3
+
